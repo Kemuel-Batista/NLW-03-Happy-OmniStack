@@ -8,6 +8,10 @@
   <a href="#memo-license">License</a>
 </p>
 
+<p align="center">
+  <img alt="Happy" src=".github/happy.png" width="100%">
+</p>
+
 <h2 align="center">About 📖</h2>
    
    <p align="center">
@@ -54,10 +58,6 @@ This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for m
 <h1 align="center">Projeto Happy - NLW #03</h1>
 
 <br>
-
-<p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
