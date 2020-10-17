@@ -57,6 +57,10 @@ This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for m
 
 <h1 align="center">Projeto Happy - NLW #03</h1>
 
+<p align="center">
+  <img alt="Happy" src=".github/Web.gif" width="100%">
+</p>
+
 <br>
 
 ## 🚀 Tecnologias
