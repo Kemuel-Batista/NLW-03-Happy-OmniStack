@@ -1,6 +1,27 @@
+<h1 align="center">Next Level Week #03. Project "Happy". 🥳</h1>
 <h1 align="center">
     <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
+
+<h2 align="center">About 📖</h2>
+   
+   <p align="center">
+      The Happy project, developed during the Next Level Week, from <a href="https://rocketseat.com.br/">Rocketseat</a>, from the 12th to the 18th of October.<br>
+      The project is inspired by Charities, which carry out very important work in the world. And it is intended to encourage children to visit orphanages, which is a beautiful thing to see the happiness of children.<br>
+      And the challenge for the week was to propose not only programming, but also a little reflection. 😀<br>
+      Let's bring happiness to the world! 😊 <br>
+      This event had a lot of exclusive, free content, it was simply sensational and profitable! 😄
+   </p>
+
+   - ✅ "Accelerating Your Evolution" 💪
+   - ✅ "Looking at opportunities" 👀
+   - ✅ "The Stack's Choice" 📌
+   - ✅ "Up to two years in 2 months" 🔥
+   - ✅ "The extra mile" 🚀
+
+---
+
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
